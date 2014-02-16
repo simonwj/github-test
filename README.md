@@ -1,4 +1,4 @@
-test
-====
+Github test
+===========
 
-used for testing git with coda
+Used for testing git with coda
